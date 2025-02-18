@@ -1,4 +1,1 @@
 /*  your css code here. If applicable */
-let var1 = prompt() * 2;
-let var2 = prompt() + var1; 
-alert(var2); 

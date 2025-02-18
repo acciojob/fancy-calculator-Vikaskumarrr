@@ -4,4 +4,4 @@ let x1 = parseInt(x) ;
 let y =  prompt();
 let y1 = parseInt(y) ; 
 let ans = (x1 * 2) + y1 ; 
-alert(ans)
+alert("The final result is: " + ans);
